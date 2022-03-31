@@ -3,8 +3,8 @@
 ## Full name: 
 Darja Jekateriničeva
 ## Contact Info: 
- Vilnius, Lithuania
- darjajek@icloud.com 
+- **Address**: Vilnius, Lithuania
+- **E-mail**: darjajek@icloud.com 
 ## Summary
 Technologies and media were always holding a special place in my heart. I’ve started to use Adobe programs since I was 9. At the same age my dad presented me an old and used photocamera which allowed me to dive into the creative media world. After school my best friend showed me a world of programming, which scared me at first. But after some years I came back to it, because I love solving logical problems and finding solutions to them. But at the same time my creative side was demanding to express itself. That is why I’ve decided to try Web Development as this field holds both creative and logical aspects. Even though I have basic knowledge of Web Development I am ready for new challenges and experience. 
 
